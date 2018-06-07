@@ -1,7 +1,8 @@
-[![Discord](https://img.shields.io/discord/298762167388471296.svg)](https://discord.gg/zvvasbc ) ![License](https://img.shields.io/github/license/mashape/apistatus.svg)
-
+<p><a href="https://discord.gg/zvvasbc"><img src="https://discordapp.com/api/guilds/298762167388471296/widget.png?"></a></p> 
 
 # lolping
 Ping tool for league of legends servers
+
+https://odar.xyz/projects/pingtool
 
 
