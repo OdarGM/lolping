@@ -3,6 +3,6 @@
 # lolping
 Ping tool for league of legends servers
 
-https://odar.xyz/projects/pingtool
+
 
 
